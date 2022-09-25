@@ -1,7 +1,7 @@
 # Analog-ic-design-
 Here i display some general schematics for my 3 Mini projects that i have worked on during ITI-Training with Dr.Hesham Omran with it's required spece and that i acheived
 with a small summery for them taken from:
- *[Cadence Labs] (https://www.master-micro.com/professional-courses/analog-ic-design/course-resources#h.i4wd26i3ll2m) 
+ * [Cadence Lab](https://www.master-micro.com/professional-courses/analog-ic-design/course-resources#h.i4wd26i3ll2m) 
 
 
 ## Lab 9(Mini project1)
