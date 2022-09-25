@@ -5,7 +5,7 @@ with a small summery for them taken from: https://www.master-micro.com/professio
 
 ## Lab 9(Mini project1)
 
--generate and use gm/ID design curves and learn to use ADT assisstance
+- generate and use gm/ID design curves and learn to use ADT assisstance
 - design a two-stage Miller OTA achieving given specifications through simulate the small-signal differential gain,small-signal common-mode gain,the large-signal      differential in the open-loop 
 -simulate closed-loop through simulate the large-signal differential ,the large-signal common-mode..etc
 -use dc closed-loop configuration to simulate an ac open-loop configuration.
