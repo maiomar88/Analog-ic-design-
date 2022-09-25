@@ -1,9 +1,10 @@
 # Analog-ic-design-
 Here i display some general schematics for my 3 Mini projects that i have worked on during ITI-Training with Dr.Hesham Omran with it's required spece and that i acheived
-with a small summery for them taken from https://www.master-micro.com/professional-courses/analog-ic-design/course-resources#h.i4wd26i3ll2m 
+with a small summery for them taken from: https://www.master-micro.com/professional-courses/analog-ic-design/course-resources#h.i4wd26i3ll2m 
 
 
-Lab 9(Mini project1)
+## Lab 9(Mini project1)
+
 -in this Mini project we generate and use gm/ID design curves and learn to use ADT assisstance
 - design a two-stage Miller OTA achieving given specifications through simulate the small-signal differential gain,small-signal common-mode gain,the large-signal      differential in the open-loop 
 -simulate closed-loop through simulate the large-signal differential ,the large-signal common-mode..etc
@@ -12,7 +13,8 @@ Lab 9(Mini project1)
 
 
 
-Lab11(Mini-projec2)
+## Lab11(Mini-projec2)
+
 - design a fully-differential folded-cascode OTA achieving given specifications.
 -simulate the open-loop characteristics of the fully-differential folded-cascode OTA throgh simulate the small-signal differential with an ideal & Actual CMFB.
 -simulate the closed-loop configuration with a real CMFB circuit.
@@ -23,7 +25,8 @@ Lab11(Mini-projec2)
 
 
 
-Lab12(Design challange)
+## Lab12(Design challange)
+
 here i know how analog is very challangable anf joyful it's very nice design with tough specs:
 - i learn how to run coreners through the design for open &closed loop 
 acheving it's specs is a VICTORY in the start of my way 
