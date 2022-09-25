@@ -5,7 +5,7 @@ with a small summery for them taken from: https://www.master-micro.com/professio
 
 ## Lab 9(Mini project1)
 
--in this Mini project we generate and use gm/ID design curves and learn to use ADT assisstance
+-generate and use gm/ID design curves and learn to use ADT assisstance
 - design a two-stage Miller OTA achieving given specifications through simulate the small-signal differential gain,small-signal common-mode gain,the large-signal      differential in the open-loop 
 -simulate closed-loop through simulate the large-signal differential ,the large-signal common-mode..etc
 -use dc closed-loop configuration to simulate an ac open-loop configuration.
@@ -31,7 +31,7 @@ here i know how analog is very challangable anf joyful it's very nice design wit
 - i learn how to run coreners through the design for open &closed loop 
 acheving it's specs is a VICTORY in the start of my way 
 -select a proper circuit topology ,design an analog circuit on my own.
--implement a digitally controlled analog circuit an show how variations affect the circuit
+-implement a digitally controlled analog circuit and show how variations affect the circuit
 
 
  Finally i would like to Thank DR. HESHAM OMRAN throughout the course. 
